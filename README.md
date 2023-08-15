@@ -1,2 +1,2 @@
 # demoApp - DemoApp
-> Business Application
+> Business Application Studio

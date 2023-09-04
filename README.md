@@ -1,3 +1,3 @@
 # demoApp - DemoApp
-> Business Application Studio try
-#
+> Business Application Studio 
+# this is demo project.

@@ -1,3 +1,4 @@
 # demoApp - DemoApp
 > Business Application Studio 
-# this is demo projectt.
+# this is demo project.
+# this is development project.
